@@ -1,0 +1,6 @@
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Server\Rebel Server\bin\x86\Debug\Rebel Server.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Server\Rebel Server\bin\x86\Debug\Rebel Server.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Server\Rebel Server\bin\x86\Debug\Rebel Server.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Server\Rebel Server\obj\x86\Debug\Rebel Server.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Server\Rebel Server\obj\x86\Debug\Rebel Server.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Server\Rebel Server\obj\x86\Debug\Rebel Server.pdb
